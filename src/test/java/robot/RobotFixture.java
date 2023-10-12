@@ -4,6 +4,7 @@ import org.concordion.api.ConcordionResources;
 import org.concordion.integration.junit4.ConcordionRunner;
 import org.junit.runner.RunWith;
 
+import java.awt.*;
 import java.util.Random;
 
 @RunWith(ConcordionRunner.class)
